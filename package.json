@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/arthurbernierjr/AlgoCasts#readme",
   "dependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.6.3"
   },
-    "jest": {
+  "jest": {
     "testEnvironment": "node"
   }
 }
