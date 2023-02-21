@@ -12,10 +12,6 @@
 //   c.next = b;
 //   circular(l) // true
 
-const L = require('./linkedlist');
-const List = L.LinkedList;
-const Node = L.Node;
-
 function circular(list) {
     let fast = list.getFirst()
     let slow = list.getFirst()
